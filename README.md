@@ -5,6 +5,6 @@
   वक्रतुण्ड महाकाय सूर्यकोटि समप्रभ ।<br>  
   निर्विघ्नं कुरु मे देव सर्वकार्येषु सर्वदा ॥
 </div><hr>
-<div align="left">
+<div align="right">
  <b>सहकर्ता: </b><a href="https://github.com/yashpathack">यश पाठक</a> एवं <a href="https://github.com/aniruddha0pandey">अनिरुद्ध पांडेय</a>।
 </div>
