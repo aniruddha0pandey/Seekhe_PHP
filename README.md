@@ -2,8 +2,8 @@
 <div align="center">
   <img src="https://media.giphy.com/media/J46InwmiUsMqk/200.gif">
 </div><br>
-<div align="left">
-  ॐ गं गणपतये नमः
+<div align="right">
+  <b>ॐ गं गणपतये नमः</b>
 </div>
 
 <hr>
