@@ -1,4 +1,4 @@
-# <div align="center">सीखें PHP शुद्ध हिंदी में।</div>
+# <div align="center" style="color:blue;font-size:50px;">सीखें PHP शुद्ध हिंदी में।</div>
 <div align="center">
   <img src="https://media.giphy.com/media/J46InwmiUsMqk/200.gif">
   <br><b>ॐ गं गणपतये नमः</b><br><br>
