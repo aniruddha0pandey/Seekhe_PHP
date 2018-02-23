@@ -13,7 +13,7 @@
   <br>लागीं सुनैं श्रवन मन लाई।
   <br>आदिहु तें सब कथा सुनाई॥
 </b><br><br>
-<img src="http://www.kamat.com/kalranga/mythology/ramayan/5089.jpg">
+<img src="http://4.bp.blogspot.com/-gO2J_jk6nE8/TcTJWC370NI/AAAAAAAAAEc/l_5880aL-xA/s1600/hanuman+ring.jpg">
 उसी वक्त सीताजी के मन से रावण की माया का सन्देह मिट जाता है और सीताजी का दुःख भाग जाता है।
 <br>उसी प्रकार अनूराध हमें आपके इस रिपॉजिटरी को स्पृशति करने में मिलता है। कृपया इस आचरिता को बारंबार रखें।
 <br>हम आपके उपकारज्ञ हैं।
