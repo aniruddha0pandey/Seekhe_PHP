@@ -20,5 +20,5 @@
 <br>धन्यवाद। :pray:
 <hr>
 <div align="right">
- <b>सहकर्ता: </b><a href="https://github.com/yashpathack">यश पाठक</a> एवं <a href="https://github.com/aniruddha0pandey">अनिरुद्ध पांडेय</a>।
+ <b>सहकर्ता: </b><a href="https://github.com/yashpathack">यश पाठक</a> एवं <a href="https://github.com/aniruddha0pandey">अनिरुद्ध पांडे</a>।
 </div>
