@@ -21,9 +21,7 @@ A file that has been manipulated prior to being sent to the browser is referred 
 
 A **PHP** file is just an HTML file saved using a `.php` extension instead of `.html`, which tells the server to look in the page for code.
 
-Online interpreter that I can think of:
-- http://phpfiddle.org/
-- https://www.tutorialspoint.com/execute_php_online.php
+
 
 ### What PHP can do?
 - Making Dynamic Web Applications.
@@ -52,6 +50,9 @@ Online interpreter that I can think of:
 - [VC CRT 11](https://www.microsoft.com/en-us/download/details.aspx?id=30679) (Visual Studio 2012) for PHP5.6 and below.
 - [VC CRT 14](https://www.microsoft.com/en-us/download/details.aspx?id=48145) (Visual Studio 2015) for PHP7.0 and above.
 - With respective DLLs and x86 or x64 builds accordingly.
+- If you're not getting in the mood for install fuss, there are interpreter available online, some that I can think of are:
+    - http://phpfiddle.org/
+    - https://www.tutorialspoint.com/execute_php_online.php
 
 ### Refrences:
 - WikiBooks **-** [PHP Programming](https://en.wikibooks.org/wiki/PHP_Programming)
