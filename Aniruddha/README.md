@@ -22,4 +22,4 @@ A file that has been manipulated prior to being sent to the browser is referred 
 </html>
 ```
 
-A PHP file is just an HTML file saved using a .php extension instead of .html, which tells the server to look in the page for code.
+A PHP file is just an HTML file saved using a `.php` extension instead of `.html`, which tells the server to look in the page for code.
