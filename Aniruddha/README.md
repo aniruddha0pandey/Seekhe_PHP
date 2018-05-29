@@ -1,7 +1,4 @@
-Refrences:
-- WikiBooks **-** [PHP Programming](https://en.wikibooks.org/wiki/PHP_Programming)
-- [The Joy of PHP](http://www.joyofphp.com/) **-** [Alan Forbes](https://datenpdf.com/viewer/web/viewer.html?file=https%3A%2F%2Fdatenpdf.com%2FdownloadFile%2Fthe-joy-of-php-alan-forbes-html-element-php_pdf%3Fpreview%3D1#%5B%7B%22num%22%3A38%2C%22gen%22%3A0%7D%2C%7B%22name%22%3A%22XYZ%22%7D%2C36%2C807%2Cnull%5D)
-- [Offical Documentation](http://php.net/docs.php) **-** [LICENCE](http://php.net/manual/en/cc.license.php) (*Copyright © 1997 - 2018 by the PHP Documentation Group.*)
+
 
 # Introduction
 **PHP** (originally stood for Personal Home Page, now stand Hypertext Preprocessor, a recursive acronym) is a widely-used open source general-purpose scripting language that is especially suited for web development and can be embedded into **HTML**. Its syntax draws upon **C**, **Java**, and **Perl**. What distinguishes **PHP** from something like client-side **JavaScript** is that the code is executed on the server, generating HTML which is then sent to the client. The client would receive the results of running that script, but would not know what the underlying code was.
@@ -46,7 +43,7 @@ Online interpreter that I can think of:
 - Desktop GUI (you probably won't use it)
     - Using [PHP-GTK](http://www.php-gtk.com.br/home), toolkit to GIMP-[GTK](https://www.gtk.org/).
 - Support wide range of Databases.
-    - [Oracle OCI8](www.oracle.com/technetwork/database/features/oci/index-090945.html) which includes PL/SQL queries.
+    - [Oracle OCI8](www.oracle.com/technetwork/database/features/oci/index-090945.html) which includes PL/SQL queries (my fav 😍).
     - Required suitable Abstraction Layers and extensions/APIs.
     - These are all based on *PDO* (PHP Data Object) extension defines a lightweight, consistent interface for accessing databases in PHP which provides a data-access abstraction layer. Where database-specific *PDO* drivers should be selected. Some are:
         - [PEAR](http://pear.php.net/package/MDB2).
@@ -55,4 +52,9 @@ Online interpreter that I can think of:
 ### Install Requirements
 - [VC CRT 11](https://www.microsoft.com/en-us/download/details.aspx?id=30679) (Visual Studio 2012) for PHP5.6 and below.
 - [VC CRT 14](https://www.microsoft.com/en-us/download/details.aspx?id=48145) (Visual Studio 2015) for PHP7.0 and above.
-- With respective DLLs and x86 or x64 accordingly.
+- With respective DLLs and x86 or x64 builds accordingly.
+
+### Refrences:
+- WikiBooks **-** [PHP Programming](https://en.wikibooks.org/wiki/PHP_Programming)
+- [The Joy of PHP](http://www.joyofphp.com/) **-** [Alan Forbes](https://datenpdf.com/viewer/web/viewer.html?file=https%3A%2F%2Fdatenpdf.com%2FdownloadFile%2Fthe-joy-of-php-alan-forbes-html-element-php_pdf%3Fpreview%3D1#%5B%7B%22num%22%3A38%2C%22gen%22%3A0%7D%2C%7B%22name%22%3A%22XYZ%22%7D%2C36%2C807%2Cnull%5D)
+- [Offical Documentation](http://php.net/docs.php) **-** [LICENCE](http://php.net/manual/en/cc.license.php) (*Copyright © 1997 - 2018 by the PHP Documentation Group.*)
