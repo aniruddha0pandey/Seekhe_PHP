@@ -33,8 +33,13 @@ Online interpreter that I can think of:
 ### What PHP can do?
 - Making Dynamic Web Applications.
     - Loads of extension and frameworks.
+        - [Laravel](https://laravel.com/).
+        - [Symfony](https://symfony.com/).
+        - [CodeIgniter](https://www.codeigniter.com/).
 - Server Side Scripting.
     - PHP Parser ([CGI or Server Module](http://www.hackingwithphp.com/18/6/0/php-as-a-cgi-or-a-module)).
+        - https://github.com/nikic/PHP-Parser (PHP based parser).
+        - https://www.npmjs.com/package/php-parser (JS based parser).
     - Web Server - Run the Web Server, with a connected PHP installation, which (PHP page) can be viewed through the server in a web browser.
 - Command Line Scripting.
 - Desktop GUI (you probably won't use it)
