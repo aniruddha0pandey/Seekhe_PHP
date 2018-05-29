@@ -38,11 +38,12 @@ Online interpreter that I can think of:
         - [CodeIgniter](https://www.codeigniter.com/).
         - [Zend Framework](https://framework.zend.com/).
 - Server Side Scripting.
+    - Run the Web Server, with a connected PHP installation, which (PHP page) can be viewed through the server in a web browser.
+- Command Line Scripting.
     - PHP Parser ([CGI or Server Module](http://www.hackingwithphp.com/18/6/0/php-as-a-cgi-or-a-module)).
         - https://github.com/nikic/PHP-Parser (PHP based parser).
         - https://www.npmjs.com/package/php-parser (JS based parser).
-    - Web Server - Run the Web Server, with a connected PHP installation, which (PHP page) can be viewed through the server in a web browser.
-- Command Line Scripting.
 - Desktop GUI (you probably won't use it)
+    - Using [PHP-GTK](http://www.php-gtk.com.br/home), toolkit to GIMP-[GTK](https://www.gtk.org/).
 - Support wide range of Databases.
 
