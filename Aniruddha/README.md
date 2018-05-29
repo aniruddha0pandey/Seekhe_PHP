@@ -47,3 +47,7 @@ Online interpreter that I can think of:
     - Using [PHP-GTK](http://www.php-gtk.com.br/home), toolkit to GIMP-[GTK](https://www.gtk.org/).
 - Support wide range of Databases.
 
+
+### Install Requirements
+- [VC CRT 11](https://www.microsoft.com/en-us/download/details.aspx?id=30679) (Visual Studio 2012) for PHP5.6 and below.
+- [VC CRT 14](https://www.microsoft.com/en-us/download/details.aspx?id=48145) (Visual Studio 2015) for PHP7.0 and above.
