@@ -40,6 +40,7 @@ Online interpreter that I can think of:
         - https://www.npmjs.com/package/php-parser (JS based parser).
 - Desktop GUI (you probably won't use it)
     - Using [PHP-GTK](http://www.php-gtk.com.br/home), toolkit to GIMP-[GTK](https://www.gtk.org/).
+    - [ZZEE PHP GUI](http://www.zzee.com/php-gui/).
 - Support wide range of Databases.
     - [Oracle OCI8](www.oracle.com/technetwork/database/features/oci/index-090945.html) which allows [PL/SQL](https://docs.oracle.com/cd/B25329_01/doc/appdev.102/b25108/xedev_php.htm#BCEFGBCI) queries (my fav 😍).
     - Required suitable Abstraction Layers and extensions/APIs.
