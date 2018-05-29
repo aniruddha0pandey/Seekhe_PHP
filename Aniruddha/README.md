@@ -1,5 +1,3 @@
-
-
 # Introduction
 **PHP** (originally stood for Personal Home Page, now stand Hypertext Preprocessor, a recursive acronym) is a widely-used open source general-purpose scripting language that is especially suited for web development and can be embedded into **HTML**. Its syntax draws upon **C**, **Java**, and **Perl**. What distinguishes **PHP** from something like client-side **JavaScript** is that the code is executed on the server, generating HTML which is then sent to the client. The client would receive the results of running that script, but would not know what the underlying code was.
 
@@ -43,7 +41,7 @@ Online interpreter that I can think of:
 - Desktop GUI (you probably won't use it)
     - Using [PHP-GTK](http://www.php-gtk.com.br/home), toolkit to GIMP-[GTK](https://www.gtk.org/).
 - Support wide range of Databases.
-    - [Oracle OCI8](www.oracle.com/technetwork/database/features/oci/index-090945.html) which includes PL/SQL queries (my fav 😍).
+    - [Oracle OCI8](www.oracle.com/technetwork/database/features/oci/index-090945.html) which allows PL/SQL queries (my fav 😍).
     - Required suitable Abstraction Layers and extensions/APIs.
     - These are all based on *PDO* (PHP Data Object) extension defines a lightweight, consistent interface for accessing databases in PHP which provides a data-access abstraction layer. Where database-specific *PDO* drivers should be selected. Some are:
         - [PEAR](http://pear.php.net/package/MDB2).
