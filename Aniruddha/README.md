@@ -1,4 +1,4 @@
-I'm taking refrence from:
+Refrences:
 - WikiBooks **-** [PHP Programming](https://en.wikibooks.org/wiki/PHP_Programming)
 - [The Joy of PHP](http://www.joyofphp.com/) **-** [Alan Forbes](https://datenpdf.com/viewer/web/viewer.html?file=https%3A%2F%2Fdatenpdf.com%2FdownloadFile%2Fthe-joy-of-php-alan-forbes-html-element-php_pdf%3Fpreview%3D1#%5B%7B%22num%22%3A38%2C%22gen%22%3A0%7D%2C%7B%22name%22%3A%22XYZ%22%7D%2C36%2C807%2Cnull%5D)
 - [Offical Documentation](http://php.net/docs.php) **-** [LICENCE](http://php.net/manual/en/cc.license.php) (*Copyright © 1997 - 2018 by the PHP Documentation Group.*)
@@ -17,7 +17,9 @@ A file that has been manipulated prior to being sent to the browser is referred 
         <title>Example</title>
     </head>
     <body>
-      <p>Hello, World!, Today's date is <?php echo date(‘jS \o\f F Y’);?>.</p>
+      <p>
+        Hello, World!, Today's date is <?php echo date(‘jS \o\f F Y’);?>.
+      </p>
     </body>
 </html>
 ```
@@ -27,3 +29,11 @@ A **PHP** file is just an HTML file saved using a `.php` extension instead of `.
 Online interpreter that I can think of:
 - http://phpfiddle.org/
 - https://www.tutorialspoint.com/execute_php_online.php
+
+## What PHP can do?
+- Making Dynamic Web Applications.
+- Server Side Scripting.
+- Command Line Scripting.
+- Desktop GUI (you probably won't use it)
+- Support wide range of Databases.
+- Loads of extension and frameworks.
