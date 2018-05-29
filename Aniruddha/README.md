@@ -43,6 +43,7 @@ A **PHP** file is just an HTML file saved using a `.php` extension instead of `.
     - These are all based on *PDO* (PHP Data Object) extension defines a lightweight, consistent interface for accessing databases in PHP which provides a data-access abstraction layer, means, regardless of the database you're using, same functions to issue queries and fetch data will be executed. Where database-specific *PDO* drivers should be selected, i.e for Oracle *PDO_OCI*. Some are:
         - [PEAR](http://pear.php.net/package/MDB2).
         - Good Luck for those **LAMP**(Linux Apache MySQL PHP) people out there.
+        - For Windows [WAMP](http://www.wampserver.com/en/) way to go.
 
 ### Install Requirements
 - [VC CRT 11](https://www.microsoft.com/en-us/download/details.aspx?id=30679) (Visual Studio 2012) for PHP5.6 and below.
