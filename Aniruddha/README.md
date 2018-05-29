@@ -43,7 +43,7 @@ Online interpreter that I can think of:
 - Support wide range of Databases.
     - [Oracle OCI8](www.oracle.com/technetwork/database/features/oci/index-090945.html) which allows PL/SQL queries (my fav 😍).
     - Required suitable Abstraction Layers and extensions/APIs.
-    - These are all based on *PDO* (PHP Data Object) extension defines a lightweight, consistent interface for accessing databases in PHP which provides a data-access abstraction layer. Where database-specific *PDO* drivers should be selected. Some are:
+    - These are all based on *PDO* (PHP Data Object) extension defines a lightweight, consistent interface for accessing databases in PHP which provides a data-access abstraction layer, means, regardless of the database you're using, same functions to issue queries and fetch data will be executed. Where database-specific *PDO* drivers should be selected. Some are:
         - [PEAR](http://pear.php.net/package/MDB2).
         - 
 
