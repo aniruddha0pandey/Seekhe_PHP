@@ -47,7 +47,10 @@ Online interpreter that I can think of:
     - Using [PHP-GTK](http://www.php-gtk.com.br/home), toolkit to GIMP-[GTK](https://www.gtk.org/).
 - Support wide range of Databases.
     - [Oracle OCI8](www.oracle.com/technetwork/database/features/oci/index-090945.html) which includes PL/SQL queries.
-    - Required suitable [Abstraction Layers](http://pear.php.net/package/MDB2) and extensions/APIs.
+    - Required suitable Abstraction Layers and extensions/APIs.
+    - These are all based on *PDO* (PHP Data Object) extension defines a lightweight, consistent interface for accessing databases in PHP which provides a data-access abstraction layer. Where database-specific *PDO* drivers should be selected. Some are:
+        - [PEAR](http://pear.php.net/package/MDB2).
+        - 
 
 ### Install Requirements
 - [VC CRT 11](https://www.microsoft.com/en-us/download/details.aspx?id=30679) (Visual Studio 2012) for PHP5.6 and below.
