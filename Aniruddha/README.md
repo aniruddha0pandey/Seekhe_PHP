@@ -4,11 +4,11 @@ I'm taking refrence from:
 - [Offical Documentation](http://php.net/docs.php) **-** [LICENCE](http://php.net/manual/en/cc.license.php) (*Copyright © 1997 - 2018 by the PHP Documentation Group.*)
 
 # Introduction
-PHP (originally stood for Personal Home Page, now stand Hypertext Preprocessor, a recursive acronym) is a widely-used open source general-purpose scripting language that is especially suited for web development and can be embedded into HTML. Its syntax draws upon C, Java, and Perl. What distinguishes PHP from something like client-side JavaScript is that the code is executed on the server, generating HTML which is then sent to the client. The client would receive the results of running that script, but would not know what the underlying code was.
+**PHP** (originally stood for Personal Home Page, now stand Hypertext Preprocessor, a recursive acronym) is a widely-used open source general-purpose scripting language that is especially suited for web development and can be embedded into **HTML**. Its syntax draws upon **C**, **Java**, and **Perl**. What distinguishes **PHP** from something like client-side **JavaScript** is that the code is executed on the server, generating HTML which is then sent to the client. The client would receive the results of running that script, but would not know what the underlying code was.
 
-There is a **PHP server**, which is a web server that is running __PHP software__ on it. Let’s contrast a PHP server with a **plain server**, one that is not running PHP. A **plain web server** just takes request from a browser, locates the appropriate file, and sends it to the browser as is with no manipulation. In other words, it only serves static web pages. Once you add PHP to a web server, you get additional functionality—without taking any existing functionality away. The server can still continue to send static HTML files to the browser, but it can also manipulate the files prior to sending them to the browser.
+There is a **PHP server**, which is a web server that is running <u>PHP software</u> on it. Let’s contrast a **PHP** server with a **plain server**, one that is not running PHP. A **plain web server** just takes request from a browser, locates the appropriate file, and sends it to the browser as is with no manipulation. In other words, it only serves static web pages. Once you add **PHP** to a web server, you get additional functionality—without taking any existing functionality away. The server can still continue to send static HTML files to the browser, but it can also manipulate the files prior to sending them to the browser.
 
-A file that has been manipulated prior to being sent to the browser is referred to as **Dynamic Web Page**. And the word "*Preprocessor*" means that PHP makes changes before the HTML page is created. Basically, PHP allows a static webpage to become dynamic. Here is an example.
+A file that has been manipulated prior to being sent to the browser is referred to as **Dynamic Web Page**. And the word "*Preprocessor*" means that **PHP** makes changes before the HTML page is created. Basically, **PHP** allows a static webpage to become dynamic. Here is an example.
 
 ```html
 <!DOCTYPE HTML>
@@ -22,4 +22,8 @@ A file that has been manipulated prior to being sent to the browser is referred 
 </html>
 ```
 
-A PHP file is just an HTML file saved using a `.php` extension instead of `.html`, which tells the server to look in the page for code.
+A **PHP** file is just an HTML file saved using a `.php` extension instead of `.html`, which tells the server to look in the page for code.
+
+Online interpreter that I can think of:
+- http://phpfiddle.org/
+- https://www.tutorialspoint.com/execute_php_online.php
