@@ -52,6 +52,10 @@ A **PHP** file is just an HTML file saved using a `.php` extension instead of `.
 - If you're not getting in the mood for install fuss, there are interpreter available online, some I can think of are:
     - http://phpfiddle.org/
     - https://www.tutorialspoint.com/execute_php_online.php
+- To save precious Bandwidth and develp locally. We need to:
+    - Install a web server ([Apache](http://httpd.apache.org/), [Python](https://www.python.org/), etc).
+    - Ofcourse [PHP](http://www.php.net/downloads.php).
+    - We're most likely to install a database as well ([MySQL](http://dev.mysql.com/doc/), [Oracle](http://www.oracle.com/technetwork/database/database-technologies/express-edition/downloads/index.html), etc).
 
 ### Refrences:
 - WikiBooks - [PHP Programming](https://en.wikibooks.org/wiki/PHP_Programming)
