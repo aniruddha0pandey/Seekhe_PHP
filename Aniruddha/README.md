@@ -53,7 +53,7 @@ A **PHP** file is just an HTML file saved using a `.php` extension instead of `.
     - http://phpfiddle.org/
     - https://www.tutorialspoint.com/execute_php_online.php
 - To save precious Bandwidth and develp locally. We need to:
-    - Install a web server ([Apache](http://httpd.apache.org/), [Python](https://www.python.org/), etc) or As of PHP 5.4.0, the *CLI* *SAPI* provides a [built-in web server](http://php.net/manual/en/features.commandline.webserver.php).
+    - Install a web server ([Apache](http://httpd.apache.org/), [Python](https://www.python.org/), etc), or as of PHP 5.4.0, the *CLI* *SAPI* provides a [built-in web server](http://php.net/manual/en/features.commandline.webserver.php).
     - Ofcourse [PHP](http://www.php.net/downloads.php).
     - We're most likely to install a database as well ([MySQL](http://dev.mysql.com/doc/), [Oracle](http://www.oracle.com/technetwork/database/database-technologies/express-edition/downloads/index.html), etc).
     - If you choose to go on the simpler route, then locate a pre-configure package, which automatically installs all mention above as **WAMP**.
