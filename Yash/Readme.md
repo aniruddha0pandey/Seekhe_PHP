@@ -68,3 +68,4 @@ Add additional notes about how to deploy this on a live system
 - The official PHP website (PHP.net) has installation instructions for PHP: http://php.net/manual/en/install.php
 
 A PHP script is executed on the server, and the plain HTML result is sent back to the browser. 
+I am using W3School's ShowPHP for learning this course. As my PC being low end and going through numerous technical faults. This is entirely web based.  
