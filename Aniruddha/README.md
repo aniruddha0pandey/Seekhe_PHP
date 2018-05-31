@@ -58,6 +58,9 @@ A **PHP** file is just an HTML file saved using a `.php` extension instead of `.
     - We're most likely to install a database as well ([MySQL](http://dev.mysql.com/doc/), [Oracle](http://www.oracle.com/technetwork/database/database-technologies/express-edition/downloads/index.html), etc).
     - If you choose to go on the simpler route, then locate a pre-configure package, which automatically installs all mention above as **WAMP**.
 
+### Prerequisite
+Create a file named (i.e `example.php`) and put it in your web server's root directory (DOCUMENT_ROOT) (i.e C:\wamp\www?).
+
 ### Refrences:
 - WikiBooks - [PHP Programming](https://en.wikibooks.org/wiki/PHP_Programming)
 - [The Joy of PHP](http://www.joyofphp.com/) - [Alan Forbes](https://datenpdf.com/downloadFile/the-joy-of-php-alan-forbes-html-element-php_pdf)
