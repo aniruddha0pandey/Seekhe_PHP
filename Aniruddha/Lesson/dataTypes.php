@@ -27,16 +27,16 @@
 // To check type use gettype() function.
 // To return type use is_type() functions (i.e is_int(), is_bool, etc).
 
-    var_dump((bool) "");           // false
-    var_dump((bool) 0.00);         // false
-    var_dump((bool) NULL);         // false
-    var_dump((bool) 1);            // true
-    var_dump((bool) -2);           // true
-    var_dump((bool) "foo");        // true
-    var_dump(0 == 'all');          // true
-    var_dump((string)0 == 'all');  // false
-    var_dump((bool) array(12));    // true
-    var_dump((bool) array());      // false
+    var_dump((bool) "");           // bool(false)
+    var_dump((bool) 0.00);         // bool(false)
+    var_dump((bool) NULL);         // bool(false)
+    var_dump((bool) 1);            // bool(true)
+    var_dump((bool) -2);           // bool(true)
+    var_dump((bool) "foo");        // bool(true)
+    var_dump(0 == 'all');          // bool(true)
+    var_dump((string)0 == 'all');  // bool(false)
+    var_dump((bool) array(12));    // bool(true)
+    var_dump((bool) array());      // bool(false)
 
 
     $var = 123;        // decimal
