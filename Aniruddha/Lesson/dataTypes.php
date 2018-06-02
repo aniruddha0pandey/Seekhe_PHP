@@ -45,4 +45,7 @@
     $var = 0x1A;       // hexadecimal
     $var = 0b11111111; // binary
 
+    // Out of bound int will be displayed as float. Example for 32-bit
+    var_dump(2147483647);   // int(2147483647)
+    var_dump(50000000000);  // float(50000000000)
 ?>
