@@ -6,8 +6,8 @@
 
     echo '<p>Hello, World!</p>';
 
-    // To use the below explained short tags, 'short_open_tag' (Default: 1) can be configured in the 'php.ini' directive.
-    // Or initiating '--enable-short-tags' command.
+    // To use the below explained short tags, 'short_open_tag' or 'asp_tags' (Default: 1)
+    // can be configured in the 'php.ini' directive or initiating '--enable-short-tags' command.
 ?>
 
 <!-- This ASP-like tag was discarded after PHP 7.0.0 -->
