@@ -38,4 +38,11 @@
     var_dump((bool) array(12));    // true
     var_dump((bool) array());      // false
 
+
+    $var = 123;        // decimal
+    $var = -123;       // negative
+    $var = 0123;       // octal
+    $var = 0x1A;       // hexadecimal
+    $var = 0b11111111; // binary
+
 ?>
