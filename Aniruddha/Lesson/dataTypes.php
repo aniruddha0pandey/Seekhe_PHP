@@ -39,11 +39,14 @@
     var_dump((bool) array());      // bool(false)
 
 
-    $var = 123;        // decimal
-    $var = -123;       // negative
-    $var = 0123;       // octal
-    $var = 0x1A;       // hexadecimal
-    $var = 0b11111111; // binary
+    $var = 123;            // decimal
+    $var = -123;           // negative
+    $var = 0123;           // octal
+    echo intval($var);     // 83 26
+    $var = 0x1A;           // hexadecimal
+    echo intval($var);     // 26
+    $var = 0b11111111;     // binary
+    echo intval($var);     // 255
 
     // Out of bound int will be displayed as float. Example for 32-bit
     var_dump(2147483647);   // int(2147483647)
