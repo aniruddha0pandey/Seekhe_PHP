@@ -8,5 +8,11 @@
     $string2 = "Aniruddha $string1";
     // Output: Aniruddha Hello, World!
     
-    
+    echo $string
+
+    // or
+    print $string
+
+    // or
+    printf("%s", $string);
 ?>
