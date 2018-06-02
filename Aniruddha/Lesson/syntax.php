@@ -1,7 +1,8 @@
 <?php
     // When PHP parses a file, it looks for opening and closing tags, which are '<?php ... ?>'
     // while everything outside these tags are ignored.
-    // PHP is case sensitive and support C like syntax, hence the comments.
+    // PHP is case sensitive and support C like syntax.
+    # Also this shell-style comment.
     // The 'echo' statment sends whatever text follows.
 
     echo '<p>Hello, World!</p>';
