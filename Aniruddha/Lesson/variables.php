@@ -5,7 +5,7 @@
 
     // Using double-quotes would tell the PHP parser that there may be more than just a string going in and to look for additional instructions.
     $string1 = 'Hello, World!<br>';
-    $string2 = "Aniruddha $string1";
+    $string2 = "Ani" . "ruddha" $string1";
     
     // Output: Aniruddha Hello, World!
     echo $string2;
