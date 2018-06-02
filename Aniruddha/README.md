@@ -46,7 +46,7 @@ A **PHP** file is just an HTML file saved using a `.php` extension instead of `.
         - For Windows [WAMP](http://www.wampserver.com/en/) way to go.
 
 ### Install Requirements
-- [VC CRT 11](https://www.microsoft.com/en-us/download/details.aspx?id=30679) (Visual Studio 2012) for PHP5.6 and below, [VC CRT 14](https://www.microsoft.com/en-us/download/details.aspx?id=48145) (Visual Studio 2015) for PHP7.0 and above.
+- [VC CRT 11](https://www.microsoft.com/en-us/download/details.aspx?id=30679) (Visual Studio 2012) for PHP5.6 and below or [VC CRT 14](https://www.microsoft.com/en-us/download/details.aspx?id=48145) (Visual Studio 2015) for PHP7.0 and above.
 - With respective DLLs and x86 or x64 builds accordingly.
 - If you're not getting in the mood for install fuss, there are interpreter available online, some I can think of are:
     - http://phpfiddle.org/
