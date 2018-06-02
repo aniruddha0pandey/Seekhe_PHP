@@ -18,10 +18,11 @@
 
 <!-- This tag was discarded after PHP 7.0.0 -->
 <script language="php">
-    echo phpinfo();
+    echo $_SERVER['HTTP_USER_AGENT'];
+    // $_SERVER is a special reserved PHP variable that contains all web server information.
 </script>
     
 <!-- There is also a short-hand for <?php echo ... ?> or <% echo ... %> -->
 <?=
-    '<p>Hello, World!</p>';
+    phpinfo();
 ?>
