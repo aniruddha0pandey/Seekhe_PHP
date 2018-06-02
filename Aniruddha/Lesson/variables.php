@@ -10,7 +10,7 @@
     // Output: Aniruddha Hello, World!
     echo $string2;
 
-    // or
+    // or, but returns some value.
     print $string2;
 
     // or
